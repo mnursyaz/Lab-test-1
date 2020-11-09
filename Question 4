@@ -38,4 +38,8 @@ print("Argument after multiply 2 * (10 * 3) : "+str(x))
 
 #Soalan 4c
 
+a=3
+b=4
 
+def add_numbers(a,b):
+    re
