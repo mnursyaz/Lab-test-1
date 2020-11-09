@@ -1,5 +1,5 @@
 #Lab Test 
-#Soalan 1
+#Soalan 1 
 
 def  countSetBits(n): 
     count = 0
